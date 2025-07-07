@@ -61,10 +61,11 @@
 </p>
 
 ## 🧰 Core Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/>
+<p>
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50" height="50"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/>
+</p>
