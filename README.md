@@ -68,14 +68,11 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/pytorch.svg" alt="PyTorch" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="50" height="50"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="50" height="50"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="50" height="50"/> 
     <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="50" height="50"/> 
 </p>
